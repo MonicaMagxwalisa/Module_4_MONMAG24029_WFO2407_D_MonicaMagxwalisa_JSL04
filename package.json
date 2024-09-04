@@ -1,0 +1,16 @@
+{
+  "name": "module_4_monmag24029_wfo2407_d_monicamagxwalisa_jsl04",
+  "version": "1.0.0",
+  "description": "You will:\r 1. Use the provided Starter Code Repository.\r 2. Code your solution.\r 3. Commit changes to your GitHub repository.\r 4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  }
+}

@@ -1,4 +1,4 @@
-// # [JSL04] Submission: Monster Ternary Operator
+//# [JSL04] Monster Ternary Operator
 
 // #### Challenge 1: Flavor Selection
 // Given a variable that holds a user's preferred type of Monster Energy drink, 
